@@ -21,8 +21,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: NATHIN R
 RegisterNumber:  212222230090
 */
-
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -92,7 +91,7 @@ print("For population = 35,000,we predict a profit a profit of $"+str(round(pred
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population =70,000,we predict a profit a profit of $"+str(round(predict2,0)))
-
+```
 
 ## Output:
 ![ex03](https://github.com/harish-ragavendra-25/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/114852180/174fc642-b03a-4693-925d-97cb5ed3fef9)
